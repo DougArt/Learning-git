@@ -1,0 +1,11 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ambiente virtual Python
+venv/
+.env
+
+# Arquivos temporários
+*.log
+*.tmp
